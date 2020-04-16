@@ -48,5 +48,9 @@ button:active {
   button {
     width: 200px;
     font-size: 1em;
+
+  }
+  table {
+    width: 400px;
   }
 }
